@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+
+}
+#googly {
+    width: 50px;
+    height: 50px;
+}
+#intro {
+    color: brown;
+    font-style: initial;
+    font-size: medium;
+    font: bold;
+}
+.idk {
+    background-color: gray;
+    width: 1000px;
+    height: 400px;
+    border-radius: 25px;
+    margin-left: 280px;
+}
+#VSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS {
+    background: transparent;
+    height: 80px;
+    width: 80px;
+}
+li {
+    background-color:;
+}
